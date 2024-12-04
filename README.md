@@ -4,6 +4,12 @@
 
 Hello, This is my reposistory shocasing my learning experience in DevOPs. Here I will go through and list what I have learnt through my time studying DevOPs alonside my contributions.
 
+## Guide
+
+Here is guide to some the topics that I have learned over my course.
+
+[DevOps Learning Guide](https://github.com/Saad214/DevOps-Course-2024/blob/main/Guide.md)
+
 ## Blogs
 
 Here are two blogs I have written based on concepts and tools learned during my course.
