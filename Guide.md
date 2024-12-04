@@ -16,6 +16,10 @@ When depolying a distributed system you run the issues of having multiple differ
 
 ## Helm
 
+Helm is a package manager for Kubernetes that simplifies the deploying and managing Kubernetes applications. It does this by packaging the application in a standardized chart which contains the applications configurations. These charts are easy to upgrade and even version should you wish to rollback to previous iteration of an application. Essentially these charts serve as a template for the application through a collection of yaml files that contain configurations and dependencies.
+
+## CI/CD and Jenkins
+
 
 
 
