@@ -20,7 +20,9 @@ Helm is a package manager for Kubernetes that simplifies the deploying and manag
 
 ## CI/CD and Jenkins
 
+CI/CD is the practice of continuous integration and deployment in software development that aims to speed up the software development cycle. CI, continuous integration, is when code is placed into a single shared repository that multiple developers work on. This allows any changes to the the code to be integrated immediately without needed to merge individual code blocks. Whenever code is integrated, it is immediately compiled and tested for any errors. CD, continuous deployment, occurs after all automated testing has completed, the build is then deployed to end users so that real time feedback can occur. This can speed up the process of further improving the next build, and releasing the software into the market. CI/CD is implemented through a pipleline containing all the various steps that need to be completed for development.
 
+Jenkins is a Kubernetes tool created to simplify this practice by automating the more tedius and repetitive parts of development. Although Jenkins can be complex to set up and potentially costly, it is a powerful tool to automate what would normally be a manual process.
 
 
 
